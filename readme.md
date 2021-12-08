@@ -2,8 +2,8 @@ It's necessary install vagrant-host-shell  for modify host files
 
 First, execute this command in a terminal
 
-vagrant plugin install vagrant-host-shell
+<b>vagrant plugin install vagrant-host-shell</b>
 
 After install, run in the project directory
 
-vagrant up
+<b>vagrant up</b>
